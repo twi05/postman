@@ -1,0 +1,201 @@
+[
+ {
+   
+   "Names": "Darshan Choudhary",
+   "House": 0,
+   "age": 26,
+   "gender": "Male",
+   "output": "{'Key': 0, 'Harveer Singh': 'Father', 'Rajkumari Chaudhary': 'Wife', 'Darshan Choudhary': 'self'}"
+ },
+ {
+   
+   "Names": "Rajkumari Chaudhary",
+   "House": 0,
+   "age": 21,
+   "gender": "Woman",
+   "output": "{'Key': 1, 'Darshan Choudhary': 'Husband', 'Rajkumari Chaudhary': 'self'}"
+ },
+ {
+   
+   "Names": "Kuwarpali",
+   "House": 1,
+   "age": 75,
+   "gender": "Woman",
+   "output": "{'Key': 2, 'Puran Singh': 'Husband', 'Kuwarpali': 'self'}"
+ },
+ {
+   
+   "Names": "Jaiveer",
+   "House": 1,
+   "age": 47,
+   "gender": "Male",
+   "output": "{'Key': 3, 'Puran Singh': 'Father', 'Rajvati': 'Wife', 'Jaiveer': 'self'}"
+ },
+ {
+   
+   "Names": "nekram",
+   "House": 1,
+   "age": 45,
+   "gender": "Male",
+   "output": "{'Key': 4, 'Puran Singh': 'Father', 'Mita': 'Wife', 'nekram': 'self'}"
+ },
+ {
+   
+   "Names": "Rajvati",
+   "House": 1,
+   "age": 43,
+   "gender": "Woman",
+   "output": "{'Key': 5, 'Jaiveer': 'Husband', 'Rajvati': 'self'}"
+ },
+ {
+   
+   "Names": "Mita",
+   "House": 1,
+   "age": 40,
+   "gender": "Woman",
+   "output": "{'Key': 6, 'nekram': 'Husband', 'Mita': 'self'}"
+ },
+ {
+   
+   "Names": "Karmaveer",
+   "House": 1,
+   "age": 37,
+   "gender": "Male",
+   "output": "{'Key': 7, 'Puran Singh': 'Father', 'Neetu Devi': 'Wife', 'Karmaveer': 'self'}"
+ },
+ {
+   
+   "Names": "Neetu Devi",
+   "House": 1,
+   "age": 35,
+   "gender": "Woman",
+   "output": "{'Key': 8, 'Karmaveer': 'Husband', 'Neetu Devi': 'self'}"
+ },
+ {
+   
+   "Names": "Sangeeta",
+   "House": 2,
+   "age": 36,
+   "gender": "Woman",
+   "output": "{'Key': 9, 'Sunil Kumar': 'Husband', 'Sangeeta': 'self'}"
+ },
+ {
+   "Names": "Mahipal",
+   "House": 2,
+   "age": 65,
+   "gender": "Male",
+   "output": "{'Key': 10, 'Todi Singh': 'Father', 'Sunil Kumar': 'Son', 'Mahipal': 'self'}"
+ },
+ {
+   "Names": "Sunil Kumar",
+   "House": 2,
+   "age": 37,
+   "gender": "Male",
+   "output": "{'Key': 11, 'Sangeeta': 'Wife', 'Sunil Kumar': 'self', 'Mahipal': 'Father'}"
+ },
+ {
+   "Names": "Jyoti ",
+   "House": 2,
+   "age": 35,
+   "gender": "Woman",
+   "output": "{'Key': 12, 'Vikas': 'Husband', 'Jyoti ': 'self'}"
+ },
+ {
+   "Names": "Vikas Singh",
+   "House": 2,
+   "age": 35,
+   "gender": "Male",
+   "output": "{'Key': 13, 'Mahipal Singh': 'Father'}"
+ },
+ {
+   "Names": "Poonam",
+   "House": 3,
+   "age": 29,
+   "gender": "Woman",
+   "output": "{'Key': 14, 'Omveer Singh': 'Husband', 'Poonam': 'self'}"
+ },
+ {
+   "Names": "pukendra kumar",
+   "House": 3,
+   "age": 27,
+   "gender": "Male",
+   "output": "{'Key': 15, 'Gajendra singh': 'Father'}"
+ },
+ {
+   "Names": "Priyanka",
+   "House": 3,
+   "age": 26,
+   "gender": "Woman",
+   "output": "{'Key': 16, 'Bhupendra Kumar': 'Husband', 'Priyanka': 'self'}"
+ },
+ {
+   "Names": "Devi Singh",
+   "House": 3,
+   "age": 69,
+   "gender": "Male",
+   "output": "{'Key': 17, 'Todi Singh': 'Father', 'Jagveer Singh': 'Son', 'Devi Singh': 'self', 'Gajendra singh': 'Son'}"
+ },
+ {
+   "Names": "Jagveer Singh",
+   "House": 3,
+   "age": 57,
+   "gender": "Male",
+   "output": "{'Key': 18, 'Devi Singh': 'Father', 'Shashi': 'Wife', 'Jagveer Singh': 'self', 'Munendr Kumar': 'Son'}"
+ },
+ {
+   "Names": "Shashi",
+   "House": 3,
+   "age": 55,
+   "gender": "Woman",
+   "output": "{'Key': 19, 'Jagveer Singh': 'Husband', 'Shashi': 'self'}"
+ },
+ {
+   "Names": "Gajendra singh",
+   "House": 3,
+   "age": 53,
+   "gender": "Male",
+   "output": "{'Key': 20, 'Devi Singh': 'Father', 'pukendra kumar': 'Son', 'Gajendra singh': 'self', 'Maya Devi': 'Wife', 'Omveer Singh': 'Son'}"
+ },
+ {
+   "Names": "Maya Devi",
+   "House": 3,
+   "age": 52,
+   "gender": "Woman",
+   "output": "{'Key': 21, 'Gajendra singh': 'Husband', 'Maya Devi': 'self'}"
+ },
+ {
+   "Names": "Santosh",
+   "House": 3,
+   "age": 47,
+   "gender": "Woman",
+   "output": "{'Key': 22, 'Jugendra Singh': 'Husband', 'Santosh': 'self'}"
+ },
+ {
+   "Names": "Omveer Singh",
+   "House": 3,
+   "age": 31,
+   "gender": "Male",
+   "output": "{'Key': 23, 'Poonam': 'Wife', 'Omveer Singh': 'self', 'Gajendra singh': 'Father'}"
+ },
+ {
+   "Names": "Munendr Kumar",
+   "House": 3,
+   "age": 31,
+   "gender": "Male",
+   "output": "{'Key': 24, 'Jagveer Singh': 'Father'}"
+ },
+ {
+   "Names": "Shivam Choudhary",
+   "House": 3,
+   "age": 29,
+   "gender": "Male",
+   "output": "{'Key': 25, 'Jugendra Singh': 'Father'}"
+ },
+ {
+   "Names": "Shivani Choudhary",
+   "House": 3,
+   "age": 24,
+   "gender": "Woman",
+   "output": "{'Key': 26, 'Jugendra Singh': 'Husband', 'Shivani Choudhary': 'self'}"
+ }
+]
